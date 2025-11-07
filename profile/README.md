@@ -1,7 +1,5 @@
 # H!NT Lab
 
-## About Us
-
 **H!NT Lab** (Human-Intelligence iNTegration Lab) is led by Dr. Hao Wang at the School of Computer Engineering and Science, Shanghai University, China. The lab focuses on exploring cutting-edge technologies for the deep integration of human intelligence and machine intelligence, dedicated to building more natural, efficient, and intelligent human-AI collaboration systems.
 
 ### Research Areas
