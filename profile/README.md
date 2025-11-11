@@ -16,4 +16,4 @@ These three directions mutually support and synergistically develop: deep natura
 
 **Led by:** Dr. Hao Wang  
 **Institution:** School of Computer Engineering and Science, Shanghai University, China  
-**Homepage:** https://hint-lab.github.io/people/wang_hao/en/
+**Homepage:** https://hint-lab.github.io/
